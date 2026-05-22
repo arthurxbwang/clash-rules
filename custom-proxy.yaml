@@ -1,4 +1,3 @@
 payload:
   - DOMAIN-SUFFIX,gate.com
   - DOMAIN-SUFFIX,safepal.com
-  - DOMAIN-SUFFIX,another-blocked-website.com
